@@ -1,0 +1,5 @@
+name = "Mojo-SIP"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+authority = "cpan:LAMMEL"
+version = "0.01"
